@@ -139,3 +139,29 @@ header {
     justify-content: space-between;
     margin: 32px 350px 128px 350px;
 }
+
+/* help section styles */
+
+.help-container {
+    max-width: 1440px;
+    border-radius: 8px;
+    margin: 0px 240px 128px 242px;
+    background: hsla(0, 0%, 15%, 0.05);
+    justify-content: space-around
+}
+
+.help-pics {
+    display: flex;
+    justify-content: space-around;
+    padding: 86px 232px 0px 317px;
+    gap: 356px;
+}
+
+.help-messages {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 175px 87px 175px;
+    gap: 100px;
+    font-size: 24px;
+    font-weight: 600;
+}
