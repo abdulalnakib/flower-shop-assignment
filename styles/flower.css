@@ -95,7 +95,6 @@ header {
     width: 31.78%;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    /* padding: 110px 76px 78px; */
 }
 
 .purple {
@@ -115,11 +114,11 @@ header {
     font-size: 24px;
     font-weight: 700;
     text-decoration-line: underline;
-    /* margin-top: 32px; */
 }
 
 .pink img {
     width: 65.40%;
+    height: 77.5%;
     padding: 110px 78px 0px 76px;
 }
 
@@ -130,6 +129,7 @@ header {
 
 .yellow img {
     width: 66.24%;
+    height: 86.5%;
     padding: 67px 75px 0px 75px;
 }
 
