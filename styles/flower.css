@@ -1,0 +1,74 @@
+/* Common shared styles */
+
+body {
+    font-family: "Lato", sans-serif
+}
+
+/* Banner styles */
+
+header {
+    width: 100%;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: center;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 240px;
+    max-width: 1460px;
+}
+
+.banner-info {
+    width: 48.49%;
+}
+
+.banner-img {
+    width: 43.49%;
+}
+
+.banner-img img {
+    width: 100%;
+    height: 800px;
+}
+
+
+
+.banner-header {
+    width: 708px;
+    /* color: #272727; */
+    font-size: 80px;
+    font-weight: 800;
+    /* padding-left: 240px; */
+    padding-top: 197px;
+    /* padding-right: 97px; */
+    padding-bottom: 32px;
+    margin: 0;
+}
+
+.banner-description {
+    width: 634px;
+    /* color: rgba(39, 39, 39, 0.60); */
+    font-size: 18px;
+    font-weight: 400;
+    /* padding-left: 240px; */
+    margin-top: 0px;
+    margin-bottom: 32px;
+}
+
+.banner-button {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    /* margin-left: 240px; */
+    /* margin-bottom: 147px; */
+    margin-top: 0px;
+}
