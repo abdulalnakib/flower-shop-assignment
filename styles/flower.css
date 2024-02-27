@@ -262,4 +262,9 @@ header {
     margin-bottom: 48px;
 }
 
-.social-img {}
+.social-img {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 128px;
+}
