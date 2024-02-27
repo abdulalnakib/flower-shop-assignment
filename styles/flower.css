@@ -68,6 +68,12 @@ header {
 
 /* Featured flower section */
 
+.section-1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 .featured-flowers-container {
     display: flex;
     justify-content: space-between;
@@ -141,6 +147,12 @@ header {
 }
 
 /* help section styles */
+
+.section-2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 
 .help-container {
     max-width: 1440px;
