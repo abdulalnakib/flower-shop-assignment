@@ -244,6 +244,7 @@ header {
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-bottom: 128px;
 }
 
 .social-title {
@@ -266,24 +267,26 @@ header {
     display: flex;
     justify-content: space-between;
     gap: 24px;
-    margin: 0 240px 128px 242px;
+    /* margin: 0 240px 128px 242px; */
 }
 
 /* Deal section styles */
 
 .section-5 {
     width: 100%;
-    /* display: flex; */
-    margin: 0 240px 128px 242px;
-    /* justify-content: center; */
+    display: flex;
+    justify-content: center;
+    margin-bottom: 128px;
+    /* margin: 0 240px 128px 242px; */
 }
 
 .deal-container {
-    width: 75%;
+    width: 1440px;
     background-image: url(../images-back/Rectangle\ 9.png);
     background-repeat: no-repeat;
-    /* display: flex;
-    justify-content: center; */
+    background-size: cover;
+    padding-bottom: 121px;
+    /* margin-bottom: 128px; */
 }
 
 
@@ -304,7 +307,7 @@ header {
 }
 
 .deal-info {
-    padding-bottom: 121px;
+    /* padding-bottom: 121px; */
 }
 
 .deal-bar {
