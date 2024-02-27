@@ -237,3 +237,29 @@ header {
 .offer-img img {
     padding: 100px 0px 100px 215px;
 }
+
+/* Social section styles */
+
+.section-4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.social-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0 0 24px 0;
+}
+
+.social-description {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+.social-img {}
