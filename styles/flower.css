@@ -266,5 +266,70 @@ header {
     display: flex;
     justify-content: space-between;
     gap: 24px;
-    margin-bottom: 128px;
+    margin: 0 240px 128px 242px;
+}
+
+/* Deal section styles */
+
+.section-5 {
+    width: 100%;
+    /* display: flex; */
+    margin: 0 240px 128px 242px;
+    /* justify-content: center; */
+}
+
+.deal-container {
+    width: 75%;
+    background-image: url(../images-back/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    /* display: flex;
+    justify-content: center; */
+}
+
+
+.deal-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 122px 0 24px 0;
+    margin: 0 0 0 0;
+}
+
+.deal-description {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 0 48px 0;
+}
+
+.deal-info {
+    padding-bottom: 121px;
+}
+
+.deal-bar {
+    width: 700px;
+    border-radius: 8px;
+    background: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 23px 0 22px 22px;
+    border: none;
+}
+
+.deal-button {
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.email-container {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
 }
